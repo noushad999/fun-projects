@@ -19,7 +19,6 @@ Each subfolder contains a self-contained project with:
 
 ## 📦 Example Projects You Might See
 
-> *(These are examples — replace them with your actual projects when added)*
 
 *  **tic-tac-toe** 
 *  **Harry_potter** 
