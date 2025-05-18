@@ -1,4 +1,4 @@
-# 🎉 Fun Projects - Machine Learning Edition 🤖
+#  Fun Projects - Machine Learning Edition 
 
 Welcome to **Fun Projects**, a collection of small, creative, and interesting **machine learning** projects built for learning, experimentation, and just plain fun!
 
