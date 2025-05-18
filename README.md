@@ -83,4 +83,3 @@ For ideas, suggestions, or collaboration, feel free to reach out:
 
 ---
 
-Let me know if you'd like me to generate a version with actual projects you've already created or structure the repo with a `projects/` folder and individual READMEs.
